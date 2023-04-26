@@ -1,6 +1,10 @@
 C:\Users\soltommy\Documents\NetBeansProjects\backendnew\src\main\java\com\portfolio\backendnew\BackendnewApplication.java
+C:\Users\soltommy\Documents\NetBeansProjects\backendnew\src\main\java\com\portfolio\backendnew\security\entity\UsuarioPrincipal.java
+C:\Users\soltommy\Documents\NetBeansProjects\backendnew\src\main\java\com\portfolio\backendnew\security\enums\RolNombre.java
 C:\Users\soltommy\Documents\NetBeansProjects\backendnew\src\main\java\com\portfolio\backendnew\service\SkillService.java
 C:\Users\soltommy\Documents\NetBeansProjects\backendnew\src\main\java\com\portfolio\backendnew\repository\SkillRepository.java
+C:\Users\soltommy\Documents\NetBeansProjects\backendnew\src\main\java\com\portfolio\backendnew\security\entity\Usuario.java
 C:\Users\soltommy\Documents\NetBeansProjects\backendnew\src\main\java\com\portfolio\backendnew\controller\SkillController.java
 C:\Users\soltommy\Documents\NetBeansProjects\backendnew\src\main\java\com\portfolio\backendnew\model\Skill.java
 C:\Users\soltommy\Documents\NetBeansProjects\backendnew\src\main\java\com\portfolio\backendnew\service\ISkillService.java
+C:\Users\soltommy\Documents\NetBeansProjects\backendnew\src\main\java\com\portfolio\backendnew\security\entity\Rol.java
